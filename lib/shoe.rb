@@ -4,7 +4,7 @@ class Shoe
   attr_reader :cobble
  
   def initialize(title)
-    @title = title
+    @cobble = cobble
   end
  
   def turn_page
