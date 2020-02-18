@@ -7,8 +7,8 @@ class Shoe
     @cobble = cobble
   end
  
-  def turn_page
-    puts "Flipping the page...wow, you read fast!"
+  def repair
+    puts "shoe has been repaired"
   end
  
 end
