@@ -4,10 +4,10 @@ class Shoe
   attr_reader :condition
  
   def initialize(title)
-    @cobble = cobble
+    @condition = condition
   end
  
-  def repair
+  def condition
     puts "shoe has been repaired"
   end
  
