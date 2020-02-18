@@ -8,6 +8,7 @@ class Shoe
   end
  
   def condition
+    self.condition = "new"
     puts "shoe has been repaired"
   end
  
